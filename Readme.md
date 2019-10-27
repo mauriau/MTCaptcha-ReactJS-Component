@@ -9,7 +9,7 @@ REACT_APP_MT_PUBLIC_KEY="<MTCaptcha Public Key>"
 ```
 
 
-MTCaptcha React componenet found at, <link>
+MTCaptcha React componenet found at, https://github.com/mtcaptcha-public/MTCaptcha-ReactJS-Component/blob/master/mtcaptcha-react-frontend/src/components/MTCaptcha.js
 In your App.js import react componenet with
 ```
 import MTCaptcha from './components/MTCaptcha';
@@ -26,4 +26,4 @@ In this example, validation of token is done with NodeJS.
 
 - Add MTCaptcha private key to config/config.json
 - Install MTCaptcha NodeJS modules from https://github.com/mtcaptcha-public/mtcaptcha-nodejs-sdk
-- Integration example at <link>
+- Integration example at https://github.com/mtcaptcha-public/MTCaptcha-ReactJS-Component/tree/master/mtcaptcha-node-backend
