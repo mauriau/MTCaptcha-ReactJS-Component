@@ -9,13 +9,13 @@ REACT_APP_MT_PUBLIC_KEY="<MTCaptcha Public Key>"
 ```
 
 
-MTCaptcha React componenet found at, https://github.com/mtcaptcha-public/MTCaptcha-ReactJS-Component/blob/master/mtcaptcha-react-frontend/src/components/MTCaptcha.js
-In your App.js import react componenet with
+MTCaptcha React component found at, https://github.com/mtcaptcha-public/MTCaptcha-ReactJS-Component/blob/master/mtcaptcha-react-frontend/src/components/MTCaptcha.js
+In your App.js import react component with
 ```
 import MTCaptcha from './components/MTCaptcha';
 ```
 
-Render componenet with, which will render captcha widget
+Render component with, which will render captcha widget
 ```
 <MTCaptcha />
 ```
