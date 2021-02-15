@@ -1,7 +1,7 @@
 {
   "name": "mtcaptcha-react-frontend",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "axios": "^0.19.0",
     "mtcaptcha-nodejs-sdk": "^1.0.0",
